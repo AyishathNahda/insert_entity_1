@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color:rgb(37, 43, 236);
+    font-weight: bold;
+}
